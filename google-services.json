@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1096272800426",
+    "firebase_url": "https://voicerecgnition.firebaseio.com",
+    "project_id": "voicerecgnition",
+    "storage_bucket": "voicerecgnition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096272800426:android:0c059e98c9848e5f",
+        "android_client_info": {
+          "package_name": "com.example.anusri.voicerecgnition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096272800426-eio8tuip7vv1mnmc5v21gnsibiltskll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anusri.voicerecgnition",
+            "certificate_hash": "7973777595adf011a1c3e2e73379f61edff20a61"
+          }
+        },
+        {
+          "client_id": "1096272800426-4afe4ga6rqdtfu70lu980nna9jthgjuo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1096272800426-4afe4ga6rqdtfu70lu980nna9jthgjuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbWLCZq0gqTEVvY8oJq6dpQYloiqiWe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096272800426-4afe4ga6rqdtfu70lu980nna9jthgjuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
